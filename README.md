@@ -16,8 +16,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/andr%C3%A9s-llano-duran-07362013a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRTM&theme=radical&langs_count=10) ![Andrés GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresRTM&show_icons=true&theme=radical) </p>
 
-
-
-
-![Andrés GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndresRTM&theme=radical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRTM&theme=radical&langs_count=10" alt="Top Languages" />    
+    <br><br> <img src="https://github-readme-stats.vercel.app/api?username=AndresRTM&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresRTM&theme=radical" alt="Streak Stats" />
+</div>
 
