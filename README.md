@@ -17,4 +17,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRTM&theme=radical&langs_count=10)
 
+![Andrés GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresRTM&show_icons=true&theme=radical)
+
+![Andrés GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndresRTN&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AndresRTM&color=blue&style=flat-square)
 
